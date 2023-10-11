@@ -115,7 +115,7 @@ namespace Projekt2
             max = Math.Max(max, c);
             int min = Math.Min(a, b);
             min = Math.Min(min, c);
-
+            //siemka
             Console.WriteLine($"Max = {max}\n\nMin = {min}");
         }
         
