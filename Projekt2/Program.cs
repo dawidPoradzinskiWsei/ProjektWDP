@@ -1,7 +1,4 @@
-﻿using System.Formats.Asn1;
-using System.Net;
-
-namespace Projekt2
+﻿namespace Projekt2
 {
     internal class Program
     {
